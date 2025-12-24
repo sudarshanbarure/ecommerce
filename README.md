@@ -1,4 +1,4 @@
-# Modern Mini E-Commerce App  test
+# Modern Mini E-Commerce App  test1
 
 ## Overview
 This is a modern, responsive E-Commerce web application built with React and Node.js.
